@@ -1,0 +1,2 @@
+# Veritaban-slem
+Listeleme,ekleme
