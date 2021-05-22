@@ -1,2 +1,2 @@
-# Veritaban-slem
+# Veritabanı İşlem
 Listeleme,ekleme
